@@ -1,0 +1,192 @@
+1702550778267	geckodriver	INFO	Listening on 127.0.0.1:56596
+1702550781307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP PAVILION\\AppData\\Local\\Temp\\rust_mozprofilelUoPkH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702550781638	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702550781707	Marionette	INFO	Listening on port 56604
+Read port: 56604
+WebDriver BiDi listening on ws://127.0.0.1:56597
+1702550781787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56597/devtools/browser/107d06db-30aa-4c69-bd60-83161e54f0d8
+1702550813356	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702551171836	Marionette	INFO	Stopped listening on port 56604
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP PAVILION\\AppData\\Local\\Temp\\rust_mozprofileBLc1um"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702550834925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702550834985	Marionette	INFO	Listening on port 56656
+WebDriver BiDi listening on ws://127.0.0.1:56649
+Read port: 56656
+1702550835138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56649/devtools/browser/3099220a-6898-4a43-b5c6-02c255d0ba44
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1702550865509	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1702550880734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1702550880912	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://ya.ru/?nr=1&redirect_ts=1702550880.00000, line 1: Script terminated by timeout at:
+f@https://ya.ru/?nr=1&redirect_ts=1702550880.00000:1:9718
+u@https://ya.ru/?nr=1&redirect_ts=1702550880.00000:1:10192
+T@https://ya.ru/?nr=1&redirect_ts=1702550880.00000:1:10335
+
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+1702551172739	Marionette	INFO	Stopped listening on port 56656
+Dynamically enable window occlusion 1
+s\\HP PAVILION\\AppData\\Local\\Temp\\rust_mozprofileSgRVv6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702550957580	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702550957648	Marionette	INFO	Listening on port 56867
+WebDriver BiDi listening on ws://127.0.0.1:56860
+Read port: 56867
+1702550957797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56860/devtools/browser/91669f6b-cbc6-4258-8358-8c646ede958c
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1702550988621	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1702551007429	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1702551007595	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+1702551173767	Marionette	INFO	Stopped listening on port 56867
+Dynamically enable window occlusion 1
+s\\HP PAVILION\\AppData\\Local\\Temp\\rust_mozprofileTwkDTX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702551106772	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702551106835	Marionette	INFO	Listening on port 56998
+WebDriver BiDi listening on ws://127.0.0.1:56991
+Read port: 56998
+1702551107001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56991/devtools/browser/0ce3149f-d2dc-4049-bd02-26cc663e1d9e
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1702551137550	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+JavaScript warning: https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 6898: Script terminated by timeout at:
+e@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:6898:355
+getPropsToForwardBeforeRegister@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:6903:213
+c@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:6910:39
+x@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:6911:267
+g@https://www.youtube.com/s/desktop/cf791362/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js:11:124
+createComponent_@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:13052:265
+stampDomArray_@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:13048:253
+rendererStamperApplyChangeRecord_@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:13041:11
+rendererStamperObserver_@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:13038:149
+BSa@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:4094:119
+ow@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:4076:218
+rw</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:4128:124
+Jib</b.prototype._propertiesChanged@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:6875:309
+RRa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:3999:200
+rw</a.prototype._invalidateProperties@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:4120:69
+RRa</b.prototype._definePropertyAccessor/<.set<@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:3989:71
+b@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:21917:14
+TUa@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:4523:48
+RUa/</<@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:4521:161
+
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+1702551320289	Marionette	INFO	Stopped listening on port 56998
+Dynamically enable window occlusion 1
+s\\HP PAVILION\\AppData\\Local\\Temp\\rust_mozprofile7AAhe9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702551209388	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702551209453	Marionette	INFO	Listening on port 57123
+WebDriver BiDi listening on ws://127.0.0.1:57116
+Read port: 57123
+1702551209603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57116/devtools/browser/d871e1a2-417f-4f65-a1a8-5537b6c74ec9
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1702551239646	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+JavaScript warning: https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 4039: Script terminated by timeout at:
+jSa/<@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:4039:60
+
+1702551260893	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript warning: https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2618: Script terminated by timeout at:
+Cp.prototype.transition@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:2618:33
+zJ/<@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:9201:114
+
+1702551316926	Marionette	INFO	Stopped listening on port 57123
+Dynamically enable window occlusion 1
+1702551329869	geckodriver	INFO	Listening on 127.0.0.1:57297
+1702551332893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP PAVILION\\AppData\\Local\\Temp\\rust_mozprofilet281Ft"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702551333178	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702551333238	Marionette	INFO	Listening on port 57305
+WebDriver BiDi listening on ws://127.0.0.1:57298
+Read port: 57305
+1702551333401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57298/devtools/browser/970e26c7-6611-4023-b4f2-5c17d2105c4b
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.10d8a867.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1702551363491	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+JavaScript warning: https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 7672: Script terminated by timeout at:
+Fnb/<@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:7672:288
+sa@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:43:401
+vaa/this.next@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:45:169
+b@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:48:87
+
+1702551414875	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://st.vk.com/dist/web/raven_logger.a1918312.js, line 1: Script terminated by timeout at:
+o@https://st.vk.com/dist/web/raven_logger.a1918312.js:1:4810
+
+1702551459155	Marionette	INFO	Stopped listening on port 57305
+JavaScript warning: https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1438: Script terminated by timeout at:
+Dpa@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:1438:51
+Cpa@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:1437:27
+t3a/</a.onSuccess@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:5531:141
+El/h<@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:1451:418
+rl/<@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:1409:63
+q@https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js:1463:133
+
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/desktop/cf791362/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 9719: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/, line 12: TypeError: can't access dead object
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 565))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 565))
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 580: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 580: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment

@@ -16,4 +16,3 @@ time.sleep(3)
 
 driver.find_element("id", "Wikipedia1_wikipedia-search-input").click()
 time.sleep(10)
-

@@ -66,4 +66,3 @@ print(driver.find_element(*NO_RADIO_STATUS).is_enabled())
 
 
 
-

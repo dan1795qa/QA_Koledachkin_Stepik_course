@@ -11,8 +11,8 @@ from selenium.webdriver.support import expected_conditions as EC
 # options = Options()
 options = webdriver.ChromeOptions()
 options.add_argument("--window-size=1920,1080")
-# options.add_argument("--disable-blink-features=AutomationControlled")
-# chrome_options.add_argument("--user-agent=Automation")
+options.add_argument("--disable-blink-features=AutomationControlled")
+options.add_argument("--user-agent=Automation")
 
 service = Service(executable_path=ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
